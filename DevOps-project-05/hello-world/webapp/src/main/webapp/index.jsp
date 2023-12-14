@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> This is a term project</h1>
+   <h1> This is a term project and this message is for testing purpose</h1>
 
   
 </form>
